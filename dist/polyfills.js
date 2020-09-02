@@ -10921,8 +10921,8 @@ if (typeof SVGElement.prototype.contains === 'undefined') {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Varun\Desktop\ngx-wireframe-4ca43cd8ab25478a0491770c120a7a55fbb82c5e\src\polyfills.ts */"./src/polyfills.ts");
-module.exports = __webpack_require__(/*! C:\Users\Varun\Desktop\ngx-wireframe-4ca43cd8ab25478a0491770c120a7a55fbb82c5e\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\jit-polyfills.js */"./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js");
+__webpack_require__(/*! C:\Users\Dell\Downloads\ngx-wireframe-4ca43cd8ab25478a0491770c120a7a55fbb82c5e\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! C:\Users\Dell\Downloads\ngx-wireframe-4ca43cd8ab25478a0491770c120a7a55fbb82c5e\node_modules\@angular-devkit\build-angular\src\angular-cli-files\models\jit-polyfills.js */"./node_modules/@angular-devkit/build-angular/src/angular-cli-files/models/jit-polyfills.js");
 
 
 /***/ })
