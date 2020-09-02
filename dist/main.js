@@ -2131,7 +2131,7 @@ var ApiService = /** @class */ (function () {
     };
     ApiService.prototype.apiCaller = function (type, url, data) {
         //  this.uri = this.api + url;
-        this.uri = 'https://dyeingbackend.gloryautotech.com/' + url;
+        this.uri = 'https://dyeingbackend.gloryautotech.com' + url;
         // this.uri = 'http://api.testautotech.xyz' + url;
         if (type === 'get') {
             return this.get(this.uri);
