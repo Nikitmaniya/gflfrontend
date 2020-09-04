@@ -18545,7 +18545,7 @@ module.exports = "<nb-card>\n  <nb-card-header>{{topHeader}}\n  </nb-card-header
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".errors {\n  color: red;\n  font-size: 13px; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGFnZXMvdXNlci9hZGQtZWRpdC11c2VyL0M6XFxVc2Vyc1xcRGVsbFxcRG93bmxvYWRzXFxuZ3gtd2lyZWZyYW1lLTRjYTQzY2Q4YWIyNTQ3OGEwNDkxNzcwYzEyMGE3YTU1ZmJiODJjNWUvc3JjXFxhcHBcXHBhZ2VzXFx1c2VyXFxhZGQtZWRpdC11c2VyXFxhZGQtZWRpdC11c2VyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksV0FBVTtFQUNWLGdCQUFlLEVBQ2xCIiwiZmlsZSI6InNyYy9hcHAvcGFnZXMvdXNlci9hZGQtZWRpdC11c2VyL2FkZC1lZGl0LXVzZXIuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuZXJyb3JzIHtcbiAgICBjb2xvcjogcmVkO1xuICAgIGZvbnQtc2l6ZTogMTNweDtcbn0iXX0= */"
+module.exports = ".errors {\n  color: red;\n  font-size: 13px; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvcGFnZXMvdXNlci9hZGQtZWRpdC11c2VyL0M6XFxVc2Vyc1xcRGVsbFxcRGVza3RvcFxcbmd4LXdpcmVmcmFtZS00Y2E0M2NkOGFiMjU0NzhhMDQ5MTc3MGMxMjBhN2E1NWZiYjgyYzVlL3NyY1xcYXBwXFxwYWdlc1xcdXNlclxcYWRkLWVkaXQtdXNlclxcYWRkLWVkaXQtdXNlci5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLFdBQVU7RUFDVixnQkFBZSxFQUNsQiIsImZpbGUiOiJzcmMvYXBwL3BhZ2VzL3VzZXIvYWRkLWVkaXQtdXNlci9hZGQtZWRpdC11c2VyLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmVycm9ycyB7XG4gICAgY29sb3I6IHJlZDtcbiAgICBmb250LXNpemU6IDEzcHg7XG59Il19 */"
 
 /***/ }),
 
